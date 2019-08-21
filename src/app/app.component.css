@@ -1,0 +1,31 @@
+.container{
+    width: 50%;
+    margin-left:20%;
+    border-radius: 50px 50px 50px 50px; 
+    background-color:#D3F8B8;
+    padding: 5px;
+}
+input.ng-invalid.ng-touched{
+    border-color: red;
+}
+.form-group input {
+    width: 75%;
+    height:30px;
+}
+.row {
+    margin-left: 20%;
+}
+h1{
+  color: #B0E38B;
+}
+#a1{
+    width:30%;
+    height: 35px;
+    margin-left: 25%;
+    background-color:grey;
+    color:white;
+}
+#a1:hover{
+    background-color:green;
+    color:white ;
+}
