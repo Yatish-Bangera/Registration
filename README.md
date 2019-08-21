@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 
+BackEnd folder- save all the files inside htdocs/api in xampp
+
+run npm install in command lines to install all the node modules.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
